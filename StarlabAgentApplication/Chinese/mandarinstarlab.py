@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+######################################
+# BRAINTECH PRIVATE LIMITED
+# JOHN MELODY MELISSA
+######################################
+# यह स्क्रिप्ट John Melody द्वारा लिखा गया है।
+# PYTHON में पूरी तरह  से द्वारा संचालित. सभी
+# अधिकार सुरक्षित |  इस स्क्रिप्ट का कोई भी
+# हिस्सा अनधिकृत पार्टी द्वारा
+# पुनरुत्पादित किया जा सकता है।
+######################################
 import tkinter
 from tkinter import *
 from tkinter.filedialog import asksaveasfilename
